@@ -27,7 +27,7 @@ export default function Quizzes() {
   }, [cid, dispatch]);
 
   const handleAddQuiz = () => {
-    navigate(`/Kanbas/Courses/${cid}/Quizzes/new`);
+    navigate(`/Kanbas/Courses/Quizzes/new`);
   };
 
   const handleDelete = async (quizId: string) => {
