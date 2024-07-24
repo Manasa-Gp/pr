@@ -1,0 +1,56 @@
+.wd-lesson-container {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+}
+.wd-padded-left {
+    padding-left: 5px;
+}
+.wd-border-white{
+    border-color: white
+}
+.wd-lesson-border-thin {
+    border-width: 30px;
+}
+.wd-lesson-description {
+    flex: 2;
+}
+.wd-rounded-corners-all-around {
+    border-radius: 100px;
+}
+.wd-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.wd-link:hover {
+    color: inherit;
+    text-decoration: underline;
+}
+
+.wd-_id {
+    color: inherit;
+    text-decoration: none;
+}
+
+.wd-_id:hover {
+    color: inherit;
+    text-decoration: underline;
+}
+
+.wd-lesson {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.icon-container {
+  display: flex;
+  align-items: center;
+}
+
+.assignment-details {
+  flex-grow: 1;
+  padding-left: 10px;
+  padding-right: 80px;
+}

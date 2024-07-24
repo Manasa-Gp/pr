@@ -1,0 +1,18 @@
+.assignment-header {
+    text-align: center;
+  }
+.assignment-subtitle {
+    font-size: smaller;
+  }
+.table-custom {
+    border: 1px solid gray;
+  }
+  
+  .table-custom th,
+  .table-custom td {
+    border: 1px solid gray;
+  }
+  
+  .red-text {
+    color: red !important;
+  }

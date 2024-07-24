@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Q1 - Course1",
+    "course": "QZ101"
+  },
+  {
+    "title": "Q2 - Course1",
+    "course": "QZ101"
+  },
+  {
+    "title": "Q1 - Course2",
+    "course": "QZ102"
+  },
+  {
+    "title": "Q2 - Course2",
+    "course": "QZ102"
+  },
+  {
+    "title": "Q1 - Course3",
+    "course": "QZ103"
+  },
+  {
+    "title": "Q2 - Course3",
+    "course": "QZ103"
+  }
+]
