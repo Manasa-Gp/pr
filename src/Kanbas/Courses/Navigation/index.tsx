@@ -9,7 +9,7 @@ export default function CoursesNavigation() {
     return (
         <div id="wd-courses-navigation" className="list-group fs-5 rounded-0">
             {links.map((link, index) => {
-                const isActive = location.pathname.includes(`/Kanbas/Courses/${cid}/${link}`);
+                const isActive = location.pathname.includes(`/Kanbas/Courses/${link}`);
                 return (
                     <Link
                         key={index}
